@@ -23,7 +23,7 @@ Employee attrition increases recruitment costs, reduces productivity, and impact
 * Interactive Visualizations
 
 -> Dashboard KPIs
-
+https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/1.png
 KPI	Value
 * Total Employees	- 1,470
 * Active Employees -	1,233
@@ -46,7 +46,7 @@ Department	Attrition Rate
 Sales employees experience significantly higher attrition compared to other departments, indicating workload pressure, performance targets, or career movement.
 
 2. Job Role Analysis
-
+https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/3.png
 Highest attrition observed in:
 
 Job Role	Attrition Rate
@@ -65,6 +65,7 @@ Lowest attrition:
 Operational and frontline roles show considerably higher turnover than leadership positions.
 
 3. Age Group Analysis
+https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/4.png
 Age Group	Attrition Rate
 * 18–25	- 35.77%
 * 26–35	- 19.14%
@@ -75,6 +76,7 @@ Age Group	Attrition Rate
 Early-career employees are nearly 4× more likely to leave than experienced employees.
 
 4. Overtime Analysis
+https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/7.png
 Overtime	Attrition Rate
 * Yes	- 30.53%
 * No	- 10.44%
@@ -84,6 +86,7 @@ Employees working overtime have approximately 3× higher attrition than employee
 This indicates workload imbalance as one of the strongest attrition drivers.
 
 5. Salary Category Analysis
+https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/6.png
 Salary Level	Attrition Rate
 * Low	- 28.6%
 * Medium	- 12.7%
@@ -94,6 +97,7 @@ Salary Level	Attrition Rate
 Attrition decreases consistently as salary increases, highlighting compensation as a major retention factor.
 
 6. Job Satisfaction Analysis
+https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/5.png
 Job Satisfaction	Attrition Rate
 * Rating 1	- 22.84%
 * Rating 2	- 16.52%
@@ -104,7 +108,7 @@ Job Satisfaction	Attrition Rate
 Employees with the lowest satisfaction rating leave at almost double the rate of highly satisfied employees.
 
 7. Job Satisfaction vs Overtime
-
+https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/8.png
 Employees working overtime consistently showed higher attrition across every job satisfaction level.
 
 Examples:
@@ -119,7 +123,7 @@ Satisfaction	Overtime	Attrition
 Even satisfied employees are more likely to resign when overtime becomes excessive.
 
 8. Department vs Overtime
-
+https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/9.png
 Employees working overtime experienced significantly higher attrition in every department.
 
 Department	No OT	OT
