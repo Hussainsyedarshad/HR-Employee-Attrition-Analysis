@@ -25,11 +25,11 @@ Employee attrition increases recruitment costs, reduces productivity, and impact
 -> Dashboard KPIs
 
 KPI	Value
-* Total Employees	1,470
-* Active Employees	1,233
-* Attrition Count	237
-* Attrition Rate	16.12%
-* Average Age	36.92 Years
+* Total Employees	- 1,470
+* Active Employees -	1,233
+* Attrition Count -	237
+* Attrition Rate - 16.12%
+* Average Age	- 36.92 Years
 
 -> Key Insights
 
@@ -38,9 +38,9 @@ KPI	Value
 Sales department recorded the highest employee turnover.
 
 Department	Attrition Rate
-* Sales	21%
-* Human Resources	19%
-* Research & Development	14%
+* Sales	- 21%
+* Human Resources	- 19%
+* Research & Development -	14%
 
 - Insight-
 Sales employees experience significantly higher attrition compared to other departments, indicating workload pressure, performance targets, or career movement.
@@ -50,11 +50,11 @@ Sales employees experience significantly higher attrition compared to other depa
 Highest attrition observed in:
 
 Job Role	Attrition Rate
-* Sales Representative	39.76%
-* Laboratory Technician	23.94%
-* Human Resources	23.08%
-* Sales Executive	17.49%
-* Research Scientist	16.10%
+* Sales Representative - 39.76%
+* Laboratory Technician - 23.94%
+* Human Resources -	23.08%
+* Sales Executive -	17.49%
+* Research Scientist - 16.10%
 
 Lowest attrition:
 
@@ -66,18 +66,18 @@ Operational and frontline roles show considerably higher turnover than leadershi
 
 3. Age Group Analysis
 Age Group	Attrition Rate
-* 18–25	35.77%
-* 26–35	19.14%
-* 46+	12.45%
-* 36–45	9.19%
+* 18–25	- 35.77%
+* 26–35	- 19.14%
+* 46+	- 12.45%
+* 36–45	- 9.19%
 
 - Insight
 Early-career employees are nearly 4× more likely to leave than experienced employees.
 
 4. Overtime Analysis
 Overtime	Attrition Rate
-* Yes	30.53%
-* No	10.44%
+* Yes	- 30.53%
+* No	- 10.44%
 
 - Insight
 Employees working overtime have approximately 3× higher attrition than employees without overtime.
@@ -85,20 +85,20 @@ This indicates workload imbalance as one of the strongest attrition drivers.
 
 5. Salary Category Analysis
 Salary Level	Attrition Rate
-* Low	28.6%
-* Medium	12.7%
-* High	12.0%
-* Very High	8.9%
+* Low	- 28.6%
+* Medium	- 12.7%
+* High	- 12.0%
+* Very High	- 8.9%
 
 - Insight
 Attrition decreases consistently as salary increases, highlighting compensation as a major retention factor.
 
 6. Job Satisfaction Analysis
 Job Satisfaction	Attrition Rate
-* Rating 1	22.84%
-* Rating 2	16.52%
-* Rating 3	16.43%
-* Rating 4	11.33%
+* Rating 1	- 22.84%
+* Rating 2	- 16.52%
+* Rating 3	- 16.43%
+* Rating 4	- 11.33%
 
 - Insight
 Employees with the lowest satisfaction rating leave at almost double the rate of highly satisfied employees.
@@ -110,10 +110,10 @@ Employees working overtime consistently showed higher attrition across every job
 Examples:
 
 Satisfaction	Overtime	Attrition
-* Rating 1	Yes	35.71%
-* Rating 2	Yes	37.68%
-* Rating 3	Yes	33.88%
-* Rating 4	Yes	21.13%
+* Rating 1	- Yes	- 35.71%
+* Rating 2	- Yes	- 37.68%
+* Rating 3	- Yes	- 33.88%
+* Rating 4	- Yes	- 21.13%
 
 - Insight
 Even satisfied employees are more likely to resign when overtime becomes excessive.
@@ -123,9 +123,9 @@ Even satisfied employees are more likely to resign when overtime becomes excessi
 Employees working overtime experienced significantly higher attrition in every department.
 
 Department	No OT	OT
-* Sales	13.84%	37.50%
-* HR	15.22%	29.41%
-* R&D	8.55%	27.31%
+* Sales -	13.84%	37.50%
+* HR	- 15.22%	29.41%
+* R&D	- 8.55%	27.31%
 
 
 -> Overall Business Insights
