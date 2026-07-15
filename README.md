@@ -24,7 +24,7 @@ Employee attrition increases recruitment costs, reduces productivity, and impact
 
 -> Dashboard KPIs
 
-(https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/1.png)
+![1](https://github.com/Hussainsyedarshad/HR-Employee-Attrition-Analysis/blob/main/1.png)
 
 KPI	Value
 * Total Employees	- 1,470
