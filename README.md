@@ -139,7 +139,7 @@ Department	No OT	OT
 * Employees with low job satisfaction demonstrate the greatest resignation risk.
 * Leadership roles (Managers, Research Directors) have relatively stable retention.
 
--Strategic Recommendations
+- Strategic Recommendations
 
 * Workforce Management
 * Reduce excessive overtime through workload balancing.
